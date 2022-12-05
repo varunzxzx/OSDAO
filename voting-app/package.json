@@ -1,0 +1,19 @@
+{
+  "name": "voting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.5.1",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.6.4"
+  },
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
